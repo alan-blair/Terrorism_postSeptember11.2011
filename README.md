@@ -1,5 +1,4 @@
-# Terrorism_postSeptember11.2011
-
+##Project: Analyze Terrorism patterns in the United States
 Purpose: Data Mining and Database Managment Course project - George Mason University
 Date: May, 2016
 
